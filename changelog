@@ -1,3 +1,6 @@
+Unreleased
+- QC::Worker#handle_failure logs the job and the error
+
 Version 2.1.3
 - Use MultiJson (Ezekiel Templin: #106)
 
